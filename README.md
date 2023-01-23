@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor con
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.
 
 
-## Placeholder Policy
+## Placeholder Policy for Version control
 
 <details>
 <summary>How do I dropdown?</summary>
@@ -71,3 +71,81 @@ Well, you asked for it!
 &lt;&#47;details&gt;
 </pre>
 </details>
+
+## Another Policy
+
+[Google](www.google.com)
+
+Lorem ipsum dolor sit amet.
+
+<button name="button" onclick="http://www.google.com">Click me</button>
+
+**BOLD STRING**
+*ITALIC CONTENT*
+[w3schools](https://www.w3schools.io)
+> This is an quote example
+
+>> Subquote example
+
+example for 
+ line break
+
+ paragraph line 2
+
+ paragraph line 3
+
+****
+
+Nested List example
+Kappa 
+*****
+******
+
+
+* item 1
+* Item 2
+- Item 3
+- Item 4
++ item 5
++ item 5
+
+ - [] Checkbox not checked
+ - [X] Checkbox checked
+
+
+npm install -g markdown-pdf
+
+<mark >Highlighted text</mark>  
+<mark style="background-color: #FFFF00">Highlighted text</mark>  
+
+normal Text content  one
+
+&nbsp;&nbsp;&nbsp;&nbsp;indented Text content  one
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indented more  
+
+<ol type="a">
+  <li>List 1</li>
+  <li>List 2</li>
+  <li>List 3</li>
+</ol>
+
+<div style="color:green">
+    Markdown inline css styles
+</div>
+
+|Header1 |Header2  | Header3|
+--- | --- | ---|
+|data1|data2|data3|
+|data11|data12|data13|
+
+> This is blockquote text
+
+<span style="color:green;font-weight:700;font-size:20px"> 
+markdown color font styles
+</span>
+
+<!---
+comments syntax
+--->
+Text content  one
