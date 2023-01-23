@@ -76,13 +76,11 @@ Well, you asked for it!
 
 [Google](www.google.com)
 
-Lorem ipsum dolor sit amet.
 
-<button name="button" onclick="http://www.google.com">Click me</button>
 
 **BOLD STRING**
 *ITALIC CONTENT*
-[w3schools](https://www.w3schools.io)
+[Google](https://www.google.com)
 > This is an quote example
 
 >> Subquote example
