@@ -28,7 +28,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor con
    turtle-doves: two
 
 ```
-![Policy as Code](https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets-global.website-files.com%2F622642781cd7e96ac1f66807%2F6232b696b2f6897a0f9bd0ab_image-92.png&imgrefurl=https%3A%2F%2Fharness.io%2Fblog%2Fpolicy-as-code&tbnid=heaOKHaZlEvoHM&vet=12ahUKEwio76WV8tz8AhWKBbcAHQRrBREQMygDegUIARDDAQ..i&docid=iaa8aE3u_jeHFM&w=698&h=300&q=policy%20as%20code&ved=2ahUKEwio76WV8tz8AhWKBbcAHQRrBREQMygDegUIARDDAQ "Policy as Code")
 
 
 #### 1.1.1 placeholder text
